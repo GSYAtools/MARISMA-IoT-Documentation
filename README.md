@@ -6,9 +6,9 @@ This repository contains a compact set of research artifacts supporting **MARISM
 
 | Document | Purpose |
 |---|---|
-| [`Basic_Artifacts_MARISMA-IoT_Pattern.pdf`](./Basic_Artifacts_MARISMA-IoT_Pattern.pdf) | Defines the main reusable artifacts of the MARISMA-IoT pattern: asset families and types, threat families and types, security domains, and impact dimensions. |
-| [`Relationship_Matrices_MARISMA-IoT_Pattern_unified.pdf`](./Relationship_Matrices_MARISMA-IoT_Pattern_unified.pdf) | Provides the relationship matrices connecting domains, security objectives, threat families, asset families, threat types, and affected dimensions. |
-| [`Assets_MARISMA-IoT_Case_Study_Laboratory_Smart_Home.pdf`](./Assets_MARISMA-IoT_Case_Study_Laboratory_Smart_Home.pdf) | Instantiates the asset taxonomy in the laboratory Smart Home used as the MARISMA-IoT case study. |
+| [`MARISMA-IoT_Basic_Artifacts.pdf`](./MARISMA-IoT_Basic_Artifacts.pdf) | Defines the main reusable artifacts of the MARISMA-IoT pattern: asset families and types, threat families and types, security domains, and impact dimensions. |
+| [`MARISMA-IoT_Relationship_Matrices.pdf`](./MARISMA-IoT_Relationship_Matrices.pdf) | Provides the relationship matrices connecting domains, security objectives, threat families, asset families, threat types, and affected dimensions. |
+| [`MARISMA-IoT_Assets_Case_Study_Laboratory_Smart_Home.pdf`](./MARISMA-IoT_Assets_Case_Study_Laboratory_Smart_Home.pdf) | Instantiates the asset taxonomy in the laboratory Smart Home used as the MARISMA-IoT case study. |
 
 ---
 
